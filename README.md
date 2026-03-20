@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -61,5 +62,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/BaggaByte/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
